@@ -3492,21 +3492,21 @@ AtlasLoot_Data["Onyxia_3"] = {
 
 	AtlasLoot_Data["TheStockade"] = {
 		{ 1, 0, "INV_Box_01", "=q6="..BabbleBoss["Targorr the Dread"], ""};
-		{ 2, 675501, "", "=q3=Targorr's Spaulders", "Shoulders", "", "50%"};
-		{ 3, 675501, "", "=q3=Targorr's Spaulders", "Shoulders", "", "50%"};
+		{ 2, 17, "", "=q3=Targorr's Spaulders", "Shoulders", "", "50%"};
+		{ 3, 17, "", "=q3=Targorr's Spaulders", "Shoulders", "", "50%"};
 		{ 4, 0, "INV_Box_01", "=q6="..BabbleBoss["Kam Deepfury"], ""};
-		{ 5, 2280, "", "=q3=Kam's Walking Stick", "=ds=#w9#", "", "0.62%"};
-		{ 6, 3640, "", "=q1=Head of Deepfury", "=ds=#m3#", "", "100%"};
+		{ 5, 17, "", "=q3=Kam's Walking Stick", "=ds=#w9#", "", "0.62%"};
+		{ 6, 17, "", "=q1=Head of Deepfury", "=ds=#m3#", "", "100%"};
 		{ 8, 0, "INV_Box_01", "=q6="..BabbleBoss["Bazil Thredd"], ""};
-		{ 9, 2926, "", "=q1=Head of Bazil Thredd", "=ds=#m3#", "", "100%"};
+		{ 9, 17, "", "=q1=Head of Bazil Thredd", "=ds=#m3#", "", "100%"};
 		{ 11, 0, "INV_Box_01", "=q6="..BabbleBoss["Dextren Ward"], ""};
-		{ 12, 3628, "", "=q1=Hand of Dextren Ward", "=ds=#m3#", "", "100%"};
+		{ 12, 17, "", "=q1=Hand of Dextren Ward", "=ds=#m3#", "", "100%"};
 		{ 16, 0, "INV_Box_01", "=q6="..BabbleBoss["Bruegal Ironknuckle"], ""};
-		{ 17, 3228, "", "=q3=Jimmied Handcuffs", "=ds=#s8#, #a3#", "", "54.73%"};
-		{ 18, 2942, "", "=q3=Iron Knuckles", "=ds=#h1#, #w13#", "", "18.18%"};
-		{ 19, 2941, "", "=q3=Prison Shank", "=ds=#h1#, #w4#", "", "16.05%"};
+		{ 17, 17, "", "=q3=Jimmied Handcuffs", "=ds=#s8#, #a3#", "", "54.73%"};
+		{ 18, 17, "", "=q3=Iron Knuckles", "=ds=#h1#, #w13#", "", "18.18%"};
+		{ 19, 17, "", "=q3=Prison Shank", "=ds=#h1#, #w4#", "", "16.05%"};
 		{ 21, 0, "INV_Box_01", "=q6=#n11#", ""};
-		{ 22, 2909, "", "=q1=Red Wool Bandana", "=ds=#m3#"};
+		{ 22, 17, "", "=q1=Red Wool Bandana", "=ds=#m3#"};
 	};
 
 		-------------------------
