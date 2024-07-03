@@ -2555,17 +2555,26 @@ AtlasLoot_Data["Onyxia_3"] = {
 		----------------------
 
 	AtlasLoot_Data["RagefireChasm"] = {
-		{ 1, 0, "INV_Box_01", "=q6="..BabbleBoss["Taragaman the Hungerer"], ""};
-		{ 2, 14149, "", "=q3=Subterranean Cape", "=ds=#s4#", "", "31.59%"};
-		{ 3, 14148, "", "=q3=Crystalline Cuffs", "=ds=#s8#, #a1#", "", "33.91%"};
-		{ 4, 14145, "", "=q3=Cursed Felblade", "=ds=#h1#, #w10#", "", "15.98%"};
-		{ 5, 14540, "", "=q1=Taragaman the Hungerer's Heart", "=ds=#m3#", "", "100%"};
-		{ 7, 0, "INV_Box_01", "=q6="..AL["Zelemar the Wrathful"], ""};
-		{ 8, 24225, "", "=q1=Blood of the Wrathful", "=ds=#m3#", "", "100%"};
-		{ 16, 0, "INV_Box_01", "=q6="..BabbleBoss["Jergosh the Invoker"], ""};
-		{ 17, 14150, "", "=q3=Robe of Evocation", "=ds=#s5#, #a1#", "", "36.40%"};
-		{ 18, 14147, "", "=q3=Cavedweller Bracers", "=ds=#s8#, #a3#", "", "34.35%"};
-		{ 19, 14151, "", "=q3=Chanting Blade", "=ds=#h1#, #w4#", "", "17.10%"};
+		{ 1, 0, "INV_Box_01", "=q6="..BabbleBoss["Oggleflint"], ""};
+		{ 2, 80000, "", "=q3=Scorched Boots", "=ds=#s12#, #a1#", "", "100%"};
+		{ 3, 80001, "", "=q3=Snarlmouth Leggings", "=ds=#s11#, #a1#", "", "100%"};
+		{ 4, 80002, "", "=q3=Bonecoal Waistguard", "=ds=#s10#, #a2#", "", "100%"};
+		{ 5, 80003, "", "=q3=Oggleflint's Precious", "=ds=#s14#", "", "100%"};
+		{ 7, 0, "INV_Box_01", "=q6="..BabbleBoss["Taragaman the Hungerer"], ""};
+		{ 8, 14149, "", "=q3=Subterranean Cape", "=ds=#s4#", "", "31.59%"};
+		{ 9, 14148, "", "=q3=Crystalline Cuffs", "=ds=#s8#, #a1#", "", "33.91%"};
+		{ 10, 14145, "", "=q3=Cursed Felblade", "=ds=#h1#, #w10#", "", "15.98%"};
+		{ 11, 80004, "", "=q3=Grasp of the Broken", "=ds=#s5#, #a3#", "", "15.98%"};
+		{ 16, 0, "INV_Box_01", "=q6="..AL["Bazzalan"], ""};
+		{ 17, 80005, "", "=q3=Flameseared Carapace", "=ds=#s5#, #a4#", "", "15.98%"};
+		{ 18, 80006, "", "=q3=Demonic Bindings", "=ds=#s8#, #a3#", "", "15.98%"};
+		{ 19, 80007, "", "=q3=Bazzalan's Grasp", "=ds=#s9#, #a1#", "", "15.98%"};
+		{ 20, 80008, "", "=q3=Everburn Shoulderguards", "=ds=#s3#, #a4#", "", "15.98%"};
+		{ 22, 0, "INV_Box_01", "=q6="..BabbleBoss["Jergosh the Invoker"], ""};
+		{ 23, 14150, "", "=q3=Robe of Evocation", "=ds=#s5#, #a1#", "", "36.40%"};
+		{ 24, 14147, "", "=q3=Cavedweller Bracers", "=ds=#s8#, #a4#", "", "34.35%"};
+		{ 25, 14151, "", "=q3=Chanting Blade", "=ds=#h1#, #w4#", "", "17.10%"};
+		{ 26, 80009, "", "=q3=Heartboiler Staff", "=ds=#w9#", "", "15.98%"};
 	};
 
 		----------------------
@@ -3434,56 +3443,42 @@ AtlasLoot_Data["Onyxia_3"] = {
 		---------------------
 
 	AtlasLoot_Data["TheDeadmines1"] = {
-		{ 1, 0, "INV_Box_01", "=q6="..BabbleBoss["Marisa du'Paige"], "=ec1=#j28#"};
-		{ 2, 3019, "", "=q2=Noble's Robe", "=ds=#s5#, #a1#", "", "22.4%"};
-		{ 3, 4660, "", "=q2=Walking Boots", "=ds=#s12#, #a1#", "", "71.4%"};
-		{ 5, 0, "INV_Box_01", "=q6="..BabbleBoss["Brainwashed Noble"], "=ec1=#j28#"};
-		{ 6, 5967, "", "=q2=Girdle of Nobility", "=ds=#s10#, #a1#", "", "70.4%"};
-		{ 7, 3902, "", "=q2=Staff of Nobles", "=ds=#w9#", "", "23.0%"};
-		{ 9, 0, "INV_Box_01", "=q6="..BabbleBoss["Foreman Thistlenettle"], "=ec1=#j28#"};
-		{ 10, 1875, "", "=q1=Thistlenettle's Badge", "=ds=#m3#", "", "100%"};
-		{ 12, 0, "INV_Box_01", "=q6="..BabbleBoss["Rhahk'Zor"], ""};
-		{ 13, 872, "", "=q3=Rockslicer", "=ds=#h2#, #w1#", "", "3.13%"};
-		{ 14, 5187, "", "=q3=Rhahk'Zor's Hammer", "=ds=#h2#, #w6#", "", "77.98%"};
-		{ 16, 0, "INV_Box_01", "=q6="..BabbleBoss["Miner Johnson"], ""};
-		{ 17, 5444, "", "=q3=Miner's Cape", "=ds=#s4#", "", "54.88%"};
-		{ 18, 5443, "", "=q3=Gold-plated Buckler", "=ds=#w8#", "", "37.21%"};
-		{ 20, 0, "INV_Box_01", "=q6="..BabbleBoss["Sneed's Shredder"], ""};
-		{ 21, 2169, "", "=q3=Buzzer Blade", "=ds=#h1#, #w4#", "", "70.78%"};
-		{ 22, 1937, "", "=q3=Buzz Saw", "=ds=#h1#, #w10#", "", "8.75%"};
-		{ 23, 7365, "", "=q1=Gnoam Sprecklesprocket", "=ds=#m3#", "", "100%"};
-		{ 25, 0, "INV_Box_01", "=q6="..BabbleBoss["Sneed"], ""};
-		{ 26, 5195, "", "=q3=Gold-flecked Gloves", "=ds=#s9#, #a1#", "", "62.38%"};
-		{ 27, 5194, "", "=q3=Taskmaster Axe", "=ds=#h2#, #w1#", "", "26.23%"};
-		{ 30, 5397, "", "=q1=Defias Gunpowder", "=ds=#m3#", "", "100%"};
+		{ 1, 0, "INV_Box_01", "=q6="..BabbleBoss["Rhahk'Zor"], ""};
+		{ 2, 872, "", "=q3=Rockslicer", "=ds=#h2#, #w1#", "", "3.13%"};
+		{ 3, 5187, "", "=q3=Rhahk'Zor's Hammer", "=ds=#h2#, #w6#", "", "77.98%"};
+		{ 5, 0, "INV_Box_01", "=q6="..BabbleBoss["Miner Johnson"], ""};
+		{ 6, 5444, "", "=q3=Miner's Cape", "=ds=#s4#", "", "54.88%"};
+		{ 7, 5443, "", "=q3=Gold-plated Buckler", "=ds=#w8#", "", "37.21%"};
+		{ 8, 10400, "", "=q3=Blackened Defias Leggings", "", "", "37.21%"};
+		{ 10, 0, "INV_Box_01", "=q6="..BabbleBoss["Sneed's Shredder"], ""};
+		{ 11, 2169, "", "=q3=Buzzer Blade", "=ds=#h1#, #w4#", "", "70.78%"};
+		{ 12, 1937, "", "=q3=Buzz Saw", "=ds=#h1#, #w10#", "", "8.75%"};
+		{ 13, 10401, "", "=q3=Blackened Defias Gloves", "", "", "100%"};
+		{ 16, 0, "INV_Box_01", "=q6="..BabbleBoss["Gilnid"], ""};
+		{ 17, 5199, "", "=q3=Smelting Pants", "=ds=#s11#, #a2#", "", "51.37%"};
+		{ 18, 1156, "", "=q3=Lavishly Jeweled Ring", "=ds=#s13#", "", "35.02%"};
+		{ 19, 10402, "", "=q3=Blackened Defias Boots", "", "", "35.02%"};
 		Next = "TheDeadmines2";
 	};
 
 	AtlasLoot_Data["TheDeadmines2"] = {
-		{ 1, 0, "INV_Box_01", "=q6="..BabbleBoss["Gilnid"], ""};
-		{ 2, 5199, "", "=q3=Smelting Pants", "=ds=#s11#, #a2#", "", "51.37%"};
-		{ 3, 1156, "", "=q3=Lavishly Jeweled Ring", "=ds=#s13#", "", "35.02%"};
-		{ 5, 0, "INV_Box_01", "=q6=#n7#", ""};
-		{ 6, 10403, "", "=q3=Blackened Defias Belt", "=ds=#s10#, #a2#", "", "23.26%"};
-		{ 7, 5200, "", "=q3=Impaling Harpoon", "=ds=#w7#", "", "25.39%"};
-		{ 8, 5201, "", "=q3=Emberstone Staff", "=ds=#w9#", "", "34.10%"};
-		{ 10, 0, "INV_Box_01", "=q6="..BabbleBoss["Mr. Smite"], ""};
-		{ 11, 5192, "", "=q3=Thief's Blade", "=ds=#h1#, #w10#", "", "34.96%"};
-		{ 12, 5196, "", "=q3=Smite's Reaver", "=ds=#h1#, #w1#", "", "33.95%"};
-		{ 13, 7230, "", "=q3=Smite's Mighty Hammer", "=ds=#h2#, #w6#", "", "17.27%"};
-		{ 16, 0, "INV_Box_01", "=q6="..BabbleBoss["Cookie"], ""};
-		{ 17, 5197, "", "=q3=Cookie's Tenderizer", "=ds=#h1#, #w6#", "", "49.62%"};
-		{ 18, 5198, "", "=q3=Cookie's Stirring Rod", "=ds=#w12#", "", "30.90%"};
-		{ 19, 8490, "", "=q1=Cat Carrier (Siamese)", "=ds=#e13#", "", "12.38%"};
-		{ 21, 0, "INV_Box_01", "=q6=#n6#", ""};
-		{ 22, 5193, "", "=q3=Cape of the Brotherhood", "=ds=#s4#", "", "21.25%"};
-		{ 23, 5202, "", "=q3=Corsair's Overshirt", "=ds=#s5#, #a1#", "", "22.86%"};
-		{ 24, 10399, "", "=q3=Blackened Defias Armor", "=ds=#s5#, #a2#", "", "14.77%"};
-		{ 25, 5191, "", "=q3=Cruel Barb", "=ds=#h1#, #w10#", "", "14.17%"};
-		{ 26, 2874, "", "=q1=An Unsent Letter", "=ds=#m2#"};
-		{ 27, 3637, "", "=q1=Head of VanCleef", "=ds=#m3#"};
+		{ 1, 0, "INV_Box_01", "=q6="..BabbleBoss["Mr. Smite"], ""};
+		{ 2, 5192, "", "=q3=Thief's Blade", "=ds=#h1#, #w10#", "", "34.96%"};
+		{ 3, 5196, "", "=q3=Smite's Reaver", "=ds=#h1#, #w1#", "", "33.95%"};
+		{ 4, 7230, "", "=q3=Smite's Mighty Hammer", "=ds=#h2#, #w6#", "", "17.27%"};
+		{ 6, 0, "INV_Box_01", "=q6="..BabbleBoss["Captain Greenskin"], ""};
+		{ 7, 10403, "", "=q3=Blackened Defias Belt", "=ds=#s10#, #a2#", "", "23.26%"};
+		{ 8, 5200, "", "=q3=Impaling Harpoon", "=ds=#w7#", "", "25.39%"};
+		{ 9, 5201, "", "=q3=Emberstone Staff", "=ds=#w9#", "", "34.10%"};
+		{ 16, 0, "INV_Box_01", "=q6="..BabbleBoss["Edwin VanCleef"], ""};
+		{ 17, 5193, "", "=q3=Cape of the Brotherhood", "=ds=#s4#", "", "21.25%"};
+		{ 18, 5202, "", "=q3=Corsair's Overshirt", "=ds=#s5#, #a1#", "", "22.86%"};
+		{ 19, 10399, "", "=q3=Blackened Defias Armor", "=ds=#s5#, #a2#", "", "14.77%"};
+		{ 20, 5191, "", "=q3=Cruel Barb", "=ds=#h1#, #w10#", "", "14.17%"};
+		{ 22, 0, "INV_Box_01", "=q6="..BabbleBoss["Cookie"], ""};
+		{ 23, 5197, "", "=q3=Cookie's Tenderizer", "=ds=#h1#, #w6#", "", "49.62%"};
+		{ 24, 5198, "", "=q3=Cookie's Stirring Rod", "=ds=#w12#", "", "30.90%"};
 		Prev = "TheDeadmines1";
-		Next = "VWOWSets1";
 	};
 
 		--------------------
@@ -3491,22 +3486,22 @@ AtlasLoot_Data["Onyxia_3"] = {
 		--------------------
 
 	AtlasLoot_Data["TheStockade"] = {
-		{ 1, 0, "INV_Box_01", "=q6="..BabbleBoss["Targorr the Dread"], ""};
-		{ 2, 17, "", "=q3=Targorr's Spaulders", "Shoulders", "", "50%"};
-		{ 3, 17, "", "=q3=Targorr's Spaulders", "Shoulders", "", "50%"};
-		{ 4, 0, "INV_Box_01", "=q6="..BabbleBoss["Kam Deepfury"], ""};
-		{ 5, 17, "", "=q3=Kam's Walking Stick", "=ds=#w9#", "", "0.62%"};
-		{ 6, 17, "", "=q1=Head of Deepfury", "=ds=#m3#", "", "100%"};
-		{ 8, 0, "INV_Box_01", "=q6="..BabbleBoss["Bazil Thredd"], ""};
-		{ 9, 17, "", "=q1=Head of Bazil Thredd", "=ds=#m3#", "", "100%"};
+		{ 1, 0, "INV_Box_01", "=q7="..BabbleBoss["Targorr the Dread"], ""};
+		{ 2, 17782, "", "=q7=Making Addon", "Need Help", "", "50%"};
+		{ 3, 316001, "", "=q4=Draconic Deflector", "This Doesnt Drop Here", "", "0%"};
+		{ 4, 0, "INV_Box_01", "=q7="..BabbleBoss["Kam Deepfury"], ""};
+		{ 5, 17, "", "=q7=stick", "=ds=#w9#", "", "0.62%"};
+		{ 6, 17, "", "=q7=stick", "=ds=#m3#", "", "100%"};
+		{ 8, 0, "INV_Box_01", "=q7="..BabbleBoss["Bazil Thredd"], ""};
+		{ 9, 17, "", "=q1=stickd", "=ds=#m3#", "", "100%"};
 		{ 11, 0, "INV_Box_01", "=q6="..BabbleBoss["Dextren Ward"], ""};
-		{ 12, 17, "", "=q1=Hand of Dextren Ward", "=ds=#m3#", "", "100%"};
+		{ 12, 17, "", "=q1=stick", "=ds=#m3#", "", "100%"};
 		{ 16, 0, "INV_Box_01", "=q6="..BabbleBoss["Bruegal Ironknuckle"], ""};
-		{ 17, 17, "", "=q3=Jimmied Handcuffs", "=ds=#s8#, #a3#", "", "54.73%"};
-		{ 18, 17, "", "=q3=Iron Knuckles", "=ds=#h1#, #w13#", "", "18.18%"};
-		{ 19, 17, "", "=q3=Prison Shank", "=ds=#h1#, #w4#", "", "16.05%"};
+		{ 17, 17, "", "=q3=stick", "=ds=#s8#, #a3#", "", "54.73%"};
+		{ 18, 17, "", "=q3=stick", "=ds=#h1#, #w13#", "", "18.18%"};
+		{ 19, 17, "", "=q3=stick", "=ds=#h1#, #w4#", "", "16.05%"};
 		{ 21, 0, "INV_Box_01", "=q6=#n11#", ""};
-		{ 22, 17, "", "=q1=Red Wool Bandana", "=ds=#m3#"};
+		{ 22, 17, "", "=q1=Big dick Stick", "=ds=#m3#"};
 	};
 
 		-------------------------
@@ -3769,28 +3764,16 @@ AtlasLoot_Data["Onyxia_3"] = {
 		-----------------------
 		
 	AtlasLoot_Data["WailingCaverns1"] = {	
-		{ 1, 0, "INV_Box_01", "=q6="..AL["Kalldan Felmoon"], "=ec1=#j28#"};
-		{ 2, 6475, "", "=q1=Pattern: Deviate Scale Gloves", "=ds=#p7# (105)"};
-		{ 3, 6474, "", "=q1=Pattern: Deviate Scale Cloak", "=ds=#p7# (90)"};
-		{ 5, 0, "INV_Box_01", "=q6="..BabbleBoss["Mad Magglish"], "=ec1=#j28#"};
-		{ 6, 5334, "", "=q1=99-Year-Old Port", "=ds=#m3#", "", "100%"};
-		{ 8, 0, "INV_Box_01", "=q6="..BabbleBoss["Trigore the Lasher"], "=ec1=#j28#"};
-		{ 9, 5425, "", "=q3=Runescale Girdle", "=ds=#s8#, #a3#", "", "50%"};
-		{ 10, 5426, "", "=q3=Serpent's Kiss", "=ds=#h1#, #w1#", "", "35%"};
-		{ 12, 0, "INV_Box_01", "=q6="..BabbleBoss["Boahn"], "=ec1=#j28#"};
-		{ 13, 5423, "", "=q3=Boahn's Fang", "=ds=#h2#, #w1#", "", "28%"};
-		{ 14, 5422, "", "=q2=Brambleweed Leggings", "=ds=#s11#, #a2#", "", "64%"};
-		{ 16, 0, "INV_Box_01", "=q6="..BabbleBoss["Lord Cobrahn"], ""};
-		{ 17, 6465, "", "=q3=Robe of the Moccasin", "=ds=#s5#, #a1#", "", "51.73%"};
-		{ 18, 10410, "", "=q3=Leggings of the Fang", "=ds=#s11#, #a2#", "", "16.03%"};
-		{ 19, 6460, "", "=q3=Cobrahn's Grasp", "=ds=#s10#, #a3#", "", "16.20%"};
-		{ 21, 0, "INV_Box_01", "=q6="..BabbleBoss["Lady Anacondra"], ""};
-		{ 22, 5404, "", "=q3=Serpent's Shoulders", "=ds=#s3#, #a2#", "", "58.61%"};
-		{ 23, 10412, "", "=q3=Belt of the Fang", "=ds=#s10#, #a2#", "", "8.63%"};
-		{ 24, 6446, "", "=q3=Snakeskin Bag", "=ds=#m12# #e1#", "", "6.61%"};
-		{ 26, 0, "INV_Box_01", "=q6="..BabbleBoss["Kresh"], ""};
-		{ 27, 13245, "", "=q3=Kresh's Back", "=ds=#w8#", "", "9.17%"};
-		{ 28, 6447, "", "=q3=Worn Turtle Shell Shield", "=ds=#w8#", "", "63.66%"};
+		{ 1, 0, "INV_Box_01", "=q6="..BabbleBoss["Lord Cobrahn"], ""};
+		{ 2, 6465, "", "=q3=Robe of the Moccasin", "=ds=#s5#, #a1#", "", "51.73%"};
+		{ 3, 10410, "", "=q3=Leggings of the Fang", "=ds=#s11#, #a2#", "", "16.03%"};
+		{ 4, 6460, "", "=q3=Cobrahn's Grasp", "=ds=#s10#, #a3#", "", "16.20%"};
+		{ 6, 0, "INV_Box_01", "=q6="..BabbleBoss["Lady Anacondra"], ""};
+		{ 7, 5404, "", "=q3=Serpent's Shoulders", "=ds=#s3#, #a2#", "", "58.61%"};
+		{ 8, 10412, "", "=q3=Belt of the Fang", "=ds=#s10#, #a2#", "", "8.63%"};
+		{ 10, 0, "INV_Box_01", "=q6="..BabbleBoss["Kresh"], ""};
+		{ 11, 13245, "", "=q3=Kresh's Back", "=ds=#w8#", "", "9.17%"};
+		{ 12, 6447, "", "=q3=Worn Turtle Shell Shield", "=ds=#w8#", "", "63.66%"};
 		Next = "WailingCaverns2";
 	};
 
@@ -3798,14 +3781,15 @@ AtlasLoot_Data["Onyxia_3"] = {
 		{ 1, 0, "INV_Box_01", "=q6="..BabbleBoss["Lord Pythas"], ""};
 		{ 2, 6473, "", "=q3=Armor of the Fang", "=ds=#s5#, #a2#", "", "52.06%"};
 		{ 3, 6472, "", "=q3=Stinging Viper", "=ds=#h1#, #w6#", "", "28.24%"};
-		{ 5, 0, "INV_Box_01", "=q6="..BabbleBoss["Skum"], ""};
-		{ 6, 6449, "", "=q3=Glowing Lizardscale Cloak", "=ds=#s4#", "", "38.24%"};
-		{ 7, 6448, "", "=q3=Tail Spike", "=ds=#h1#, #w4#", "", "39.24%"};
-		{ 9, 0, "INV_Box_01", "=q6="..BabbleBoss["Lord Serpentis"], ""};
-		{ 10, 5970, "", "=q3=Serpent Gloves", "=ds=#s9#, #a1#", "", "20.96%"};
-		{ 11, 10411, "", "=q3=Footpads of the Fang", "=ds=#s12#, #a2#", "", "19.07%"};
-		{ 12, 6459, "", "=q3=Savage Trodders", "=ds=#s12#, #a3#", "", "24.39%"};
-		{ 13, 6469, "", "=q3=Venomstrike", "=ds=#w2#", "", "16.63%"};
+		{ 4, 10413, "", "=q3=Gloves of the Fang", "", "", "28.24%"};
+		{ 6, 0, "INV_Box_01", "=q6="..BabbleBoss["Skum"], ""};
+		{ 7, 6449, "", "=q3=Glowing Lizardscale Cloak", "=ds=#s4#", "", "38.24%"};
+		{ 8, 6448, "", "=q3=Tail Spike", "=ds=#h1#, #w4#", "", "39.24%"};
+		{ 10, 0, "INV_Box_01", "=q6="..BabbleBoss["Lord Serpentis"], ""};
+		{ 11, 5970, "", "=q3=Serpent Gloves", "=ds=#s9#, #a1#", "", "20.96%"};
+		{ 12, 10411, "", "=q3=Footpads of the Fang", "=ds=#s12#, #a2#", "", "19.07%"};
+		{ 13, 6459, "", "=q3=Savage Trodders", "=ds=#s12#, #a3#", "", "24.39%"};
+		{ 14, 6469, "", "=q3=Venomstrike", "=ds=#w2#", "", "16.63%"};
 		{ 16, 0, "INV_Box_01", "=q6="..BabbleBoss["Verdan the Everliving"], ""};
 		{ 17, 6629, "", "=q3=Sporid Cape", "=ds=#s4#", "", "16.65%"};
 		{ 18, 6631, "", "=q3=Living Root", "=ds=#w9#", "", "34.47%"};
@@ -3814,12 +3798,10 @@ AtlasLoot_Data["Onyxia_3"] = {
 		{ 22, 6461, "", "=q3=Slime-encrusted Pads", "=ds=#s3#, #a1#", "", "22.96%"};
 		{ 23, 6627, "", "=q3=Mutant Scale Breastplate", "=ds=#s5#, #a3#", "", "18.33%"};
 		{ 24, 6463, "", "=q3=Deep Fathom Ring", "=ds=#s13#", "", "21.99%"};
-		{ 25, 10441, "", "=q1=Glowing Shard", "=ds=#m2#"};
-		{ 27, 0, "INV_Box_01", "=q6="..BabbleBoss["Deviate Faerie Dragon"], ""};
-		{ 28, 6632, "", "=q3=Feyscale Cloak", "=ds=#s4#", "", "37.84%"};
-		{ 29, 5243, "", "=q3=Firebelcher", "=ds=#w12#", "", "39.65%"};
+		{ 26, 0, "INV_Box_01", "=q6="..BabbleBoss["Deviate Faerie Dragon"], ""};
+		{ 27, 6632, "", "=q3=Feyscale Cloak", "=ds=#s4#", "", "37.84%"};
+		{ 28, 5243, "", "=q3=Firebelcher", "=ds=#w12#", "", "39.65%"};
 		Prev = "WailingCaverns1";
-		Next = "VWOWSets1";
 	};
 
 		------------------
