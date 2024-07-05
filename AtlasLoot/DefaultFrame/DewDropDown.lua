@@ -50,54 +50,48 @@ AtlasLoot_DewDropDown = {
 				{ BabbleZone["Molten Core"], "MoltenCore", "Submenu" },
 			},
 			[11] = {
-				{ BabbleZone["Naxxramas"], "Naxxramas40", "Submenu" },
-			},
-			[12] = {
-				{ BabbleZone["Onyxia's Lair"], "OnyxiasLair", "Submenu" },
-			},
-			[13] = {
 				{ BabbleZone["Ragefire Chasm"], "RagefireChasm", "Table" },
 			},
-			[14] = {
+			[12] = {
 				{ BabbleZone["Razorfen Downs"], "RazorfenDowns1", "Table" },
 			},
-			[15] = {
+			[13] = {
 				{ BabbleZone["Razorfen Kraul"], "RazorfenKraul1", "Table" },
 			},
-			[16] = {
+			[14] = {
 				{ BabbleZone["Ruins of Ahn'Qiraj"], "RuinsofAQ", "Submenu" },
 			},
-			[17] = {
+			[15] = {
 				{ BabbleZone["Scarlet Monastery"], "Scarlet Monastery", "Submenu" },
 			},
-			[18] = {
+			[16] = {
 				{ BabbleZone["Scholomance"], "Scholomance", "Submenu" },
 			},
-			[19] = {
+			[17] = {
 				{ BabbleZone["Shadowfang Keep"], "ShadowfangKeep1", "Table" },
 			},
-			[20] = {
+			[18] = {
 				{ BabbleZone["The Stockade"], "TheStockade", "Table" },
 			},
-			[21] = {
+			[19] = {
 				{ BabbleZone["Stratholme"], "Stratholme", "Submenu" },
 			},
-			[22] = {
+			[20] = {
 				{ BabbleZone["Temple of Ahn'Qiraj"], "TempleofAQ", "Submenu" },
 			},
-			[23] = {
+			[21] = {
 				{ BabbleZone["The Temple of Atal'Hakkar"], "SunkenTemple", "Submenu" },
 			},
-			[24] = {
+			[22] = {
 				{ BabbleZone["Uldaman"], "Uldaman", "Submenu" },
 			},
-			[25] = {
+			[23] = {
 				{ BabbleZone["Wailing Caverns"], "WailingCaverns1", "Table" },
 			},
-			[26] = {
+			[24] = {
 				{ BabbleZone["Zul'Farrak"], "ZulFarrak", "Submenu" },
 			},
-			[27] = {
+			[25] = {
 				{ BabbleZone["Zul'Gurub"], "ZulGurub", "Submenu" },
 			},
 		},
@@ -377,7 +371,7 @@ AtlasLoot_DewDropDown_SubTables = {
 	["Scarlet Monastery"] = {
 		{ BabbleZone["Armory"], "SMHerod" },
 		{ "", "SMCathedral" },
-		{ "", "SMGraveyard" },
+		{ "", "SMGraveyard1" },
 		{ "", "SMLibrary" },
 		{ "", "SMTrash" },
 		{ AL["Set: Chain of the Scarlet Crusade"], "VWOWSets1" },
@@ -551,30 +545,6 @@ AtlasLoot_DewDropDown_SubTables = {
 		{ AL["Trash Mobs"], "AQ40Trash1" },
 		{ AL["AQ Enchants"], "AQEnchants" },
 		{ AL["AQ Opening Quest Chain"], "AQOpening" },
-	},
-		["Naxxramas40"] = {
-		{ "", "NAXPatchwerk" },
-		{ "", "NAXGrobbulus" },
-		{ "", "NAXGluth" },
-		{ "", "NAXThaddius" },
-		{ "", "NAXAnubRekhan" },
-		{ "", "NAXGrandWidowFaerlina" },
-		{ "", "NAXMaexxna" },
-		{ "", "NAXNoththePlaguebringer" },
-		{ "", "NAXHeigantheUnclean" },
-		{ "", "NAXLoatheb" },
-		{ "", "NAXInstructorRazuvious" },
-		{ "", "NAXGothiktheHarvester" },
-		{ "", "NAXTheFourHorsemen" },
-		{ "", "NAXSapphiron" },
-		{ "", "NAXKelThuzard" },
-		{ "", "NAXTrash" },
-		},
-	
-		["OnyxiasLair"] = {
-		{ "", "Onyxia_3" },
-
-
 	},
 	["ZulFarrak"] = {
 		{ BabbleBoss["Antu'sul"], "ZFAntusul" },
