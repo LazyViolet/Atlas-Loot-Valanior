@@ -589,7 +589,6 @@ end
   -- Blackfathom Deeps
 	AtlasLoot_TableNames["BlackfathomDeeps1"] = { BabbleZone["Blackfathom Deeps"], "AtlasLootOriginalWoW" };
 	AtlasLoot_TableNames["BlackfathomDeeps2"] = { BabbleZone["Blackfathom Deeps"], "AtlasLootOriginalWoW" };
-	AtlasLoot_TableNames["BlackfathomDeeps3"] = { BabbleZone["Blackfathom Deeps"], "AtlasLootOriginalWoW" };
   -- Blackrock Mountain
 	AtlasLoot_TableNames["BRMScarshieldQuartermaster"] = { AL["Scarshield Quartermaster"], "AtlasLootOriginalWoW" };
   -- Blackrock Depths
@@ -737,7 +736,8 @@ end
   -- Scarlet Monestery
 	AtlasLoot_TableNames["SMHerod"] = { BabbleZone["Scarlet Monastery"], "AtlasLootOriginalWoW" };
 	AtlasLoot_TableNames["SMCathedral"] = { BabbleZone["Cathedral"], "AtlasLootOriginalWoW" };
-	AtlasLoot_TableNames["SMGraveyard"] = { BabbleZone["Graveyard"], "AtlasLootOriginalWoW" };
+	AtlasLoot_TableNames["SMGraveyard1"] = { BabbleZone["Graveyard"], "AtlasLootOriginalWoW" };
+	AtlasLoot_TableNames["SMGraveyard2"] = { BabbleZone["Graveyard"], "AtlasLootOriginalWoW" };
 	AtlasLoot_TableNames["SMLibrary"] = { BabbleZone["Library"], "AtlasLootOriginalWoW" };
 	AtlasLoot_TableNames["SMTrash"] = { AL["Trash Mobs"].." ("..BabbleZone["Scarlet Monastery"]..")", "AtlasLootOriginalWoW" };
   -- Scholomance
