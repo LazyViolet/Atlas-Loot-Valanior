@@ -1348,7 +1348,7 @@ AtlasLootNewBossButtons = {
         "";
         "";
         "";
-        "Onyxia_3";
+        "Onyxia_1";
         };
 
     RagefireChasm = {
@@ -1488,10 +1488,10 @@ AtlasLootNewBossButtons = {
         "";
         "";
         "HeadlessHorseman";
-        "SMGraveyard";
-        "SMGraveyard";
-        "SMGraveyard";
-        "SMGraveyard";
+        "SMGraveyard1";
+        "SMGraveyard2";
+        "SMGraveyard1";
+        "SMGraveyard2";
         "";
         "SMTrash";
         "VWOWSets1";
@@ -3149,41 +3149,12 @@ AtlasLootBossButtons = {
         "MCRANDOMBOSSDROPPS";
         "MCTrashMobs";
         };
-	
-	Naxxramas40 = {
-        "";
-        "Argent1";
+
+    OnyxiasLair = {
         "";
         "";
         "";
-        "";
-        "NAXPatchwerk";
-        "NAXGrobbulus";
-        "NAXGluth";
-        "NAXThaddius";
-        "";
-        "NAXAnubRekhan";
-        "NAXGrandWidowFaerlina";
-        "NAXMaexxna";
-        "";
-        "NAXInstructorRazuvious";
-        "NAXGothikderHarvester";
-        "NAXTheFourHorsemen";
-        "";
-        "";
-        "";
-        "";
-        "";
-        "";
-        "NAXNothderPlaguebringer";
-        "NAXHeiganderUnclean";
-        "NAXLoatheb";
-        "";
-        "NAXSapphiron";
-        "NAXKelThuzard";
-        "";
-        "NAXTrash";
-        "T3SET";
+        "Onyxia_1";
         };
 
     RagefireChasm = {
